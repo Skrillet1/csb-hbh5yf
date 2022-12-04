@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://skrillet1.github.io/csb-hbh5yf/static/css/main.d578532a.chunk.css",
+    "main.js": "https://skrillet1.github.io/csb-hbh5yf/static/js/main.7d51a0f0.chunk.js",
+    "main.js.map": "https://skrillet1.github.io/csb-hbh5yf/static/js/main.7d51a0f0.chunk.js.map",
+    "runtime-main.js": "https://skrillet1.github.io/csb-hbh5yf/static/js/runtime-main.13c60c64.js",
+    "runtime-main.js.map": "https://skrillet1.github.io/csb-hbh5yf/static/js/runtime-main.13c60c64.js.map",
+    "static/js/2.f084d558.chunk.js": "https://skrillet1.github.io/csb-hbh5yf/static/js/2.f084d558.chunk.js",
+    "static/js/2.f084d558.chunk.js.map": "https://skrillet1.github.io/csb-hbh5yf/static/js/2.f084d558.chunk.js.map",
+    "index.html": "https://skrillet1.github.io/csb-hbh5yf/index.html",
+    "static/css/main.d578532a.chunk.css.map": "https://skrillet1.github.io/csb-hbh5yf/static/css/main.d578532a.chunk.css.map",
+    "static/js/2.f084d558.chunk.js.LICENSE.txt": "https://skrillet1.github.io/csb-hbh5yf/static/js/2.f084d558.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13c60c64.js",
+    "static/js/2.f084d558.chunk.js",
+    "static/css/main.d578532a.chunk.css",
+    "static/js/main.7d51a0f0.chunk.js"
+  ]
+}
